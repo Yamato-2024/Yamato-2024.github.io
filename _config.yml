@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://Yamato-2024.org
+url: https://Yamato-2024.github.io
 date_format: "ordinal"
 title: 无限进步
 subtitle: "Welcome to my blog~"
