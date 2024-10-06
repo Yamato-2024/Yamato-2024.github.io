@@ -22,5 +22,8 @@ mindmap2: false
 github开源平台
 开源闭源各有利弊
 ### 大模型的作用
+![](/images/posts/github/deepspeakphoto.png)              
 提高学习效率
-![](/images/posts/github/deepspeakphoto.png)
+此外embedding辅助将知识提前转成Embedding向量，存入知识库，然后通过检索将知识作为背景信息，这样就相当于给LLM外接大脑，使大模型能够运用这些外部知识
+
+###实践
