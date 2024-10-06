@@ -23,4 +23,4 @@ github开源平台
 开源闭源各有利弊
 ### 大模型的作用
 提高学习效率
-![alt Deepspeak](deepspeakphoto.png)
+![](/images/posts/github/deepspeakphoto.png)
